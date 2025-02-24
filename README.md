@@ -1,0 +1,1 @@
+This is a program made in Python. You can control the sound with your hand by opening and closing the hand. You can also control media playback using finger gestures and stopping or playing the next or previous track.
